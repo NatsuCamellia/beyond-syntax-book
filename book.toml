@@ -4,3 +4,6 @@ language = "zh-TW"
 multilingual = false
 src = "src"
 title = "超越語法：深入理解程式語言"
+
+[output.html]
+git-repository-url = "https://github.com/NatsuCamellia/beyond-syntax-book"
